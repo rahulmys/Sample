@@ -1,4 +1,5 @@
 Void Main()
 {
-Printf("Hello my Name is Rahul"\n);
+Printf("Hello my Name is Rahul\n");
+Printf("I am from Mysore\n");
 }
