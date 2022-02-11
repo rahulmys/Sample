@@ -1,9 +1,0 @@
-Void Main()
-{
-Printf("Hello my Name is Rahul\n");
-Printf("I am from Mysore\n");
-Printf("------Education details------\n");
-Printf("Diploma in Computer Science\n");
-Printf("BE in Computer Science\n");
-Printf("Mtech in Computer Network\n");
-}
