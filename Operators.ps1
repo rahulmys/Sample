@@ -12,6 +12,7 @@ Write-Host Relational Operators.
 if($var1 -ige $var2)
 {
     Write-Host $var1 is greater than $var2
+    Write-Host "we have created branch"
 }
 else{
     Write-Host $var2 is greater than $var1
